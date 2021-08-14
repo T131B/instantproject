@@ -1,0 +1,66 @@
+.navbar{
+   background-image: linear-gradient(to right, rgb(221, 148, 160) 60%,white);
+}
+.hr{
+    width: 50%;
+    background:linear-gradient(to left, rgb(71, 204, 223), white, rgb(71,204,223));
+    height: 5px;
+    margin: auto;
+    border-radius: 50%;
+}
+.navbar ul a{
+    color: powderblue;
+    transition: all 0.5s;
+    margin: 0px 10px;
+}
+.navbar  ul a:hover{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    color: black;
+   font-weight: bold;
+}
+.layout{
+    height: 100%;
+    width: 100%;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+}
+/* body{
+    height: 4000px;
+ 
+} */
+
+ .nav{
+    width: 50%;
+    border-radius: 20px;
+    margin: 70px auto 10px auto;
+    border: 1px solid silver;
+
+}
+  .nav a{
+  
+    color: skyblue;
+   transition: all 1s;
+    margin: 5px 50px;
+}
+.conte1 {
+    background-image: linear-gradient(to right , black 70%,white);
+}
+.container img {
+    width: 100%;
+}
+.footer{
+    background-image: linear-gradient(to right, rgb(221, 148, 160) 60%,white);
+}
+.hr3 {
+    border:  1px black solid;
+}
+
+.color-of-fotor {
+
+    background-image: linear-gradient(to right, rgb(221, 148, 160) 60%,white);
+
+}
+#About-Us {
+    color: cornsilk;
+}
+
